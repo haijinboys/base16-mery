@@ -1,0 +1,3 @@
+default: 
+    extension: .metheme
+    output: themes
